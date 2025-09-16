@@ -40,7 +40,13 @@ WATCHLIST = {
     "ROBT"   : "First Trust Nasdaq Artificial Intelligence and Robotics ETF",
     "BOTZ"   : "Global X Robotics & AI Thematic ETF",
     "IBOT"   : "Vaneck Robotics ETF",
-    "IVES"   : "Dan IVES Wedbush AI Revolution ETF"
+    "IVES"   : "Dan IVES Wedbush AI Revolution ETF",
+    "BVA.SI" : "Top Glove",
+    "OV8.SI" : "Sheng Siong",
+    "F9D.SI" : "Boustead",
+    "FTNT"   : "Fortinet",
+    "BABA" : "ALIBABA"
+
 }
 
 # ==== Daily OHLC + Overlays helpers ====
